@@ -1,0 +1,79 @@
+/* This is a css comment*/
+
+  /*  
+    body {
+      background-color:aqua
+    }
+    
+    header h1 {
+      color:purple;
+    }
+    
+    h1 {
+      color:red;
+    }
+    
+    nav {
+      background-color:bisque
+    }
+    
+    .highlight {
+      color: yellow;
+    }
+    
+    aside.highlight {
+      background-color: green;
+    }
+
+    a {
+      text-decoration: line-through;
+    }
+  */
+    #main {
+      color: gray;
+    }
+
+    img {
+      width:65%;
+      height:auto;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      font-size: 1.5em
+    }
+    
+    p::first-letter {
+      font-size: 2em;
+      color: firebrick
+    }
+
+    h1:hover {
+      color:green
+    }
+    
+    a:visited {
+      text-decoration-line: none
+    }
+    
+    header {
+      width: 100%
+      margin:auto;
+    }
+    
+    article {
+      width: 75%
+      margin:auto;
+    }
+    
+    header {
+      width:75%;
+      margin:auto;
+      background-color: darkslateblue;
+    }
+    
+    footer {
+      border:1px solid red;
+      border-radius: 10px
+    }
+    
